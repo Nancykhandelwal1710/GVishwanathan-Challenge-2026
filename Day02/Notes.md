@@ -1,5 +1,6 @@
 # Day 2
 
+
 ## Group Anagrams
 
 Topic:
