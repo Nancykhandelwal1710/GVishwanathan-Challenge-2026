@@ -1,1 +1,113 @@
-# GVishwanathan-Challenge-2026
+# Dr. G. Viswanathan Coding Challenge 2026
+
+## About
+
+This repository contains my solutions for the **Dr. G. Viswanathan Coding Challenge 2026**.
+
+As a final-year B.Tech CSE (AI & ML) student at VIT Bhopal University, I am participating in this challenge to strengthen my Data Structures and Algorithms (DSA) skills, improve problem-solving ability, and prepare for placement opportunities.
+
+I am documenting my daily progress, solutions, and key learnings throughout this journey.
+
+---
+
+## Challenge Goals
+
+* Improve problem-solving skills
+* Build consistency in coding
+* Strengthen DSA concepts
+* Prepare for technical interviews and placements
+* Maintain an active learning journey
+
+---
+
+## Languages Used
+
+* C++
+* Python
+
+---
+
+## Platforms
+
+* LeetCode
+* Codeforces
+
+---
+
+## Repository Structure
+
+```text
+Day01/
+Day02/
+Day03/
+...
+Day43/
+```
+
+Each folder contains:
+
+* Solution files (.cpp / .py)
+* Notes.md containing:
+
+  * Topic
+  * Approach
+  * Time Complexity
+  * Space Complexity
+  * Key Learnings
+
+---
+
+## Progress Tracker
+
+* [x] Day 1
+* [x] Day 2
+* [x] Day 3
+* [x] Day 4
+* [x] Day 5
+* [ ] Day 6
+* [ ] Day 7
+* [ ] Day 8
+* [ ] Day 9
+* [ ] Day 10
+* [ ] Day 11
+* [ ] Day 12
+* [ ] Day 13
+* [ ] Day 14
+* [ ] Day 15
+* [ ] Day 16
+* [ ] Day 17
+* [ ] Day 18
+* [ ] Day 19
+* [ ] Day 20
+* [ ] Day 21
+* [ ] Day 22
+* [ ] Day 23
+* [ ] Day 24
+* [ ] Day 25
+* [ ] Day 26
+* [ ] Day 27
+* [ ] Day 28
+* [ ] Day 29
+* [ ] Day 30
+* [ ] Day 31
+* [ ] Day 32
+* [ ] Day 33
+* [ ] Day 34
+* [ ] Day 35
+* [ ] Day 36
+* [ ] Day 37
+* [ ] Day 38
+* [ ] Day 39
+* [ ] Day 40
+* [ ] Day 41
+* [ ] Day 42
+* [ ] Day 43
+
+---
+
+## Connect With Me
+
+**Nancy Khandelwal**
+B.Tech CSE (AI & ML) | VIT Bhopal University
+
+LinkedIn: www.linkedin.com/in/nancyk-ai-dev
