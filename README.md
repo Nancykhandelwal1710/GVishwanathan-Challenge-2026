@@ -6,17 +6,17 @@ This repository contains my solutions for the **Dr. G. Viswanathan Coding Challe
 
 As a final-year B.Tech CSE (AI & ML) student at VIT Bhopal University, I am participating in this challenge to strengthen my Data Structures and Algorithms (DSA) skills, improve problem-solving ability, and prepare for placement opportunities.
 
-I am documenting my daily progress, solutions, and key learnings throughout this journey.
+Along with the challenge problems, I am also solving additional problems from LeetCode and Codeforces to enhance my coding skills and maintain consistency.
 
 ---
 
 ## Challenge Goals
 
 * Improve problem-solving skills
-* Build consistency in coding
+* Build coding consistency
 * Strengthen DSA concepts
 * Prepare for technical interviews and placements
-* Maintain an active learning journey
+* Document my daily learning journey
 
 ---
 
@@ -46,8 +46,8 @@ Day43/
 
 Each folder contains:
 
-* Solution files (.cpp / .py)
-* Notes.md containing:
+* Solution files (`.cpp` / `.py`)
+* `Notes.md` including:
 
   * Topic
   * Approach
@@ -64,7 +64,7 @@ Each folder contains:
 * [x] Day 3
 * [x] Day 4
 * [x] Day 5
-* [ ] Day 6
+* [x] Day 6
 * [ ] Day 7
 * [ ] Day 8
 * [ ] Day 9
@@ -111,3 +111,4 @@ Each folder contains:
 B.Tech CSE (AI & ML) | VIT Bhopal University
 
 LinkedIn: www.linkedin.com/in/nancyk-ai-dev
+
