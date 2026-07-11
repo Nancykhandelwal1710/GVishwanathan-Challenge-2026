@@ -110,5 +110,5 @@ Each folder contains:
 **Nancy Khandelwal**
 B.Tech CSE (AI & ML) | VIT Bhopal University
 
-LinkedIn: www.linkedin.com/in/nancyk-ai-dev
+LinkedIn:- www.linkedin.com/in/nancyk-ai-dev
 
