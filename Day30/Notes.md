@@ -1,25 +1,74 @@
-class Solution(object):
-    def minCut(self, s):
+# Day 30
 
-        n = len(s)
+## Palindrome Partitioning II
 
-        pal = [[False] * n for _ in range(n)]
+Platform:
+LeetCode
 
-        dp = [0] * n
+Language:
+Python
 
-        for i in range(n):
-            dp[i] = i
+Topic:
+Dynamic Programming, Strings
 
-            for j in range(i + 1):
+Approach:
+Precomputed palindrome substrings using Dynamic Programming and then calculated the minimum cuts required for every prefix of the string.
 
-                if s[j] == s[i] and (i - j < 2 or pal[j + 1][i - 1]):
+Time Complexity:
+O(n²)
 
-                    pal[j][i] = True
+Space Complexity:
+O(n²)
 
-                    if j == 0:
-                        dp[i] = 0
-                    else:
-                        dp[i] = min(dp[i], dp[j - 1] + 1)
+Key Learning:
+Preprocessing repeated computations often simplifies Dynamic Programming solutions and significantly improves efficiency.
 
-        return dp[-1]
-        
+---
+
+## Largest Rectangle in Histogram
+
+Platform:
+LeetCode
+
+Language:
+C++
+
+Topic:
+Monotonic Stack
+
+Approach:
+Used a monotonic increasing stack to efficiently determine the maximum rectangle area for each histogram bar.
+
+Time Complexity:
+O(n)
+
+Space Complexity:
+O(n)
+
+Key Learning:
+Monotonic stacks provide an elegant linear-time solution for nearest smaller element and histogram-related problems.
+
+---
+
+## N-Queens
+
+Platform:
+LeetCode
+
+Language:
+Python
+
+Topic:
+Backtracking
+
+Approach:
+Placed queens row by row while tracking occupied columns and diagonals to prune invalid configurations.
+
+Time Complexity:
+O(N!)
+
+Space Complexity:
+O(N²)
+
+Key Learning:
+Backtracking systematically explores all valid possibilities while pruning infeasible states to reduce unnecessary computation.
