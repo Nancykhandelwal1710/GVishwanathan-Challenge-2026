@@ -93,7 +93,7 @@ Each folder contains:
 * [x] Day 32
 * [x] Day 33
 * [x] Day 34
-* [ ] Day 35
+* [x] Day 35
 * [ ] Day 36
 * [ ] Day 37
 * [ ] Day 38
