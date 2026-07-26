@@ -95,7 +95,7 @@ Each folder contains:
 * [x] Day 34
 * [x] Day 35
 * [x] Day 36
-* [ ] Day 37
+* [x] Day 37
 * [ ] Day 38
 * [ ] Day 39
 * [ ] Day 40
