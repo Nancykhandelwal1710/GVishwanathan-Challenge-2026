@@ -101,7 +101,7 @@ Each folder contains:
 * [x] Day 40
 * [x] Day 41
 * [x] Day 42
-* [ ] Day 43
+* [x] Day 43
 
 ---
 
