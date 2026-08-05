@@ -103,7 +103,7 @@ Each folder contains:
 * [x] Day 42
 * [x] Day 43
 
----
+----
 
 ## Connect With Me
 
